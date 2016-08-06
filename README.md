@@ -10,3 +10,5 @@ docker run --rm -it cron-in-docker
 
 # 后台运行方式启动
 docker run -d --name sync-pg2es cron-in-docker
+
+Thanks: https://github.com/yanqiw/cron-in-docker
