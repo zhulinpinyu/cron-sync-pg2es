@@ -1,0 +1,1 @@
+*/1 * * * * /bin/bash /code/bin/pg2es.sh cron >> /var/log/cron.log 2>&1
